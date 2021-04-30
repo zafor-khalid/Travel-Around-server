@@ -14,6 +14,7 @@
                     d) update booking status 
                     e) make another admin.
             6. Anyone can drop a review
+            7. Fully responsive.
 
            
 ![travel-around-1](https://user-images.githubusercontent.com/76748851/116690159-d0718f80-a9da-11eb-81f3-e78a9341a891.png)
